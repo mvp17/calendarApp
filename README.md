@@ -1,0 +1,3 @@
+# The app requirements
+- Calendar where you can see the current year, divided by months in columns (columns can be showed in mobile).
+- List of categories, initially it must have two: holidays and work. You must be able to add and delete categories. The categories must be selectable, and when you select one and click a day of the calendar, this day must be marked with the selected category. In case the day have already a category, it is shown all the categories.

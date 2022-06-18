@@ -1,0 +1,24 @@
+/* ANT DESIGN IMPORT */
+@import '~antd/dist/antd.css';
+
+.site-layout .site-layout-background {
+    background: #fff;
+}
+
+.logo {
+    max-width: 169px;
+    height: 50px;
+}
+
+.steps-content {
+    min-height: 70vh;
+    margin-top: 16px;
+    padding-top: 80px;
+    text-align: center;
+    border: 1px dashed #e9e9e9;
+    border-radius: 2px;
+}
+
+.steps-action {
+    margin-top: 24px;
+}
